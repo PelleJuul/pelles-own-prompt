@@ -1,6 +1,6 @@
 ![Screenshot of the prompt](images/screenshot.png)
 
-# Pelles Own Prompt
+# Pelles own Prompt
 
 This is the repository for my very on zsh prompt. The prompt designed with
 simplicity and utility in mind, without all the bells and whistles found in 
