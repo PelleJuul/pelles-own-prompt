@@ -10,8 +10,10 @@ The prompt features
     ↓ Two dashes to make it easy to identify lines with commands.
        ↓ The top two directories of the current path, so you can see where
          you're at.
-              ↓ A minimal, non-fancy prompt symbol. 
-    -- ~/code >
+                 ↓ The current git branch is shown if you're in a git
+                   repository.
+                         ↓ A minimal, non-fancy prompt symbol. 
+    -- code/lyt (master) >
 
     The leading dash and prompt symbol will be colored red if the previous 
     command failed.
