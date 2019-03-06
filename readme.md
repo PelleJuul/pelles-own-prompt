@@ -18,7 +18,7 @@ The prompt features
     ├────────────────────┘
     │
     └ The leading dash and prompt symbol will be colored red if the previous 
-    command failed.
+      command failed.
 ```
 
 ## Installation
