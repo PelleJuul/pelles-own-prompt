@@ -1,6 +1,6 @@
 
 local pathstr=$(print -P '%2~')
-local ret_color="%(?:%{$fg[green]%}:%{$fg[red]%})"
+local ret_color="%(?:%{$fg_bold[green]%}:%{$fg_bold[red]%})"
 local promptSymbol='>'
 
 precmd () {
